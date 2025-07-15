@@ -10,7 +10,6 @@ export class AppService {
 
     return {
       is_online: true,
-      environment: nodeEnv,
     };
   }
 }
